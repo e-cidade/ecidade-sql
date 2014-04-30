@@ -1,2 +1,1 @@
-Os arquivos .sql excedem o tamanho máximo permitido pelo GitHub.
-TODO: Procurar outra solução.
+Os arquivos sql excedem o tamanho mÃ¡ximo permitido pelo GitHub.
